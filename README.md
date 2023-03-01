@@ -6,24 +6,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunonavarone&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonavarone&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 <br>
 
-<div> 
-  <a href="https://instagram.com/brunonavarone" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href=https://www.linkedin.com/in/bruno-henrique-travessa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <br><br>
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brunonavarone&bg_color=ffebfe&color=3d0039&line=ff00bb&point=24001c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{brunonavarone}/count.svg" /></p> 
 <br>
 </div>
-
+                                                                                                       
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff7ef5&height=120&section=footer"/>
